@@ -32,6 +32,12 @@ var logos = [
     link: 'https://developer.github.com/v4/'
   },
   {
+    name: 'Pluralsight',
+    img: 'pluralsight.png',
+    isRound: true,
+    link: 'https://pluralsight.com/'
+  },
+  {
     name: 'Intuit',
     img: 'intuit.png',
     link: 'https://www.intuit.com/'
